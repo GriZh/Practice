@@ -1,4 +1,5 @@
 <?php
+/* ПРАКИЧЕСКОЕ ЗАДАНИЕ 11*/
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['background_color'])) {
